@@ -1,0 +1,28 @@
+{
+  "name": "cak",
+  "version": "0.0.1",
+  "description": "mini js cache with expire time",
+  "config": {
+    "libName": "cak"
+  },
+  "keywords": [
+    "cak",
+    "cache",
+    "expire",
+    "js",
+    "time"
+  ],
+  "author": "litt1e-p",
+  "license": "MIT",
+  "main": "dist/cak.umd.js",
+  "module": "dist/cak.esm.js",
+  "unpkg": "dist/cak.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litt1e-p/cak.git"
+  },
+  "bugs": {
+    "url": "https://github.com/litt1e-p/cak/issues"
+  },
+  "homepage": "https://github.com/litt1e-p/cak#readme"
+}
