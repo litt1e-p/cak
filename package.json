@@ -1,6 +1,6 @@
 {
   "name": "cak",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mini js cache with expire time",
   "config": {
     "libName": "cak"

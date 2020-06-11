@@ -20,6 +20,7 @@ let cak = new Cak(expire-time)
 
 // set
 cak.set(k, v)
+cak.set(k, v, expire-time)
 
 // get 
 cak.get(k)
@@ -35,6 +36,12 @@ cak.keys()
 
 // values of cache
 cak.values()
+
+// size of cache
+cak.size()
+
+// is empty
+cak.empty()
 
 // flush one or clear all
 cak.flush(k)
