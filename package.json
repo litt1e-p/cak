@@ -1,6 +1,6 @@
 {
   "name": "cak",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "mini js cache with expire time",
   "config": {
     "libName": "cak"
@@ -17,6 +17,9 @@
   "main": "dist/cak.umd.js",
   "module": "dist/cak.esm.js",
   "unpkg": "dist/cak.min.js",
+  "dependencies": {
+    "core-js": "^3.8.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/litt1e-p/cak.git"
