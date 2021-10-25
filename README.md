@@ -1,6 +1,6 @@
 # Cak
 
-mini js cache with expire time
+mini js cache with auto expire time
 
 ## Installation
 
